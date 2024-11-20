@@ -7,7 +7,7 @@ Dowload the folder named ZS_connect and all its contents to your computer. Then 
 * This option is the easiest, but some security systems do not allow this method to run.
 
 ## Option 2 - Manual version
-Download the file named "ZS_connect.py" and run this script in Python, this will require installation of all the neccesary packages.
+Download the files named "ZS_connect.py", "List_COM_Ports.py", and "locus.py" and run the ZS_connect script in Python, this will require installation of all the neccesary packages.
 
 # 2 - Usage
 ## 2.1 Home screen
